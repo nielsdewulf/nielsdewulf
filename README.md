@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/niels-dewulf/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
 <hr>
+
 ![](https://komarev.com/ghpvc/?username=nielsdewulf&style=flat-square)
+
 ### 💼 Where I'm currently working at/as
 - Storebugs (Student Software Engineer)
 
