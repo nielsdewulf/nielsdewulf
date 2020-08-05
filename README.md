@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nielsdewulf" />
-</a>
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsdewulf&layout=compact&hide=assembly" />
-</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=nielsdewulf" />
+<p>
+<a href="https://twitter.com/FunergyDev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+</p>
