@@ -19,22 +19,22 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/FunergyDev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://www.linkedin.com/in/niels-dewulf/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
-<hr>
+<h2 align="center"></h2>
 
 ### 💼 Where I'm currently working at/as
 - Storebugs (Student Software Engineer)
 
 ### 💻 What I'm currently/done working on
-- [Weerstation Hooglede](https://https://weerstationhooglede.be/)  🚀
+- [Weerstation Hooglede](https://weerstationhooglede.be/)  🚀
 - Howest MCT Discord Bot  🚀 
-- [Portfolio](http://funergydev.com/)  🚀
+- [Portfolio](https://funergydev.com/)  🚀
 
 ### 📖 What I'm currently learning
 - React (Native)  * Progress 13% * 
 - AI & Machine Learning  * Progress 56% *
 - Web Development  * Progress 92% *
 
-<hr>
+<h2 align="center"></h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=nielsdewulf" />
 
