@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nielsdewulf" />
 </a>
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsdewulf&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsdewulf&layout=compact&hide=assembly" />
 </a>
