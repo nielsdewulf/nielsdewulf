@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=nielsdewulf" />
 <p>
 <a href="https://twitter.com/FunergyDev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="https://funergydev.com"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&label=Portfolio" height=25></a> 
+<a href="https://funergydev.com"><img src="https://img.shields.io/badge/?&style=for-the-badge&label=Portfolio" height=25></a> 
 
 </p>
