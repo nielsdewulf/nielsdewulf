@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-![](https://komarev.com/ghpvc/?username=nielsdewulf&style=flat-square)
-
 ### 💼 Where I'm currently working at/as
 - Storebugs (Student Software Engineer)
 
@@ -39,3 +37,5 @@ Here are some ideas to get you started:
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=nielsdewulf" />
+
+![](https://komarev.com/ghpvc/?username=nielsdewulf&style=flat-square)
