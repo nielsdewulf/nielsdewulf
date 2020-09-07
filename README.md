@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### 📖 What I'm currently learning
 - React (Native)  * Progress 13% * 
-- AI & Machine Learning  * Progress 56% *
-- Web Development  * Progress 92% *
+- AI & Machine Learning  * Progress 72% *
+- Web Development  * Progress 95% *
 
 <h2 align="center"></h2>
 
