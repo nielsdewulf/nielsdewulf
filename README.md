@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2 align="center"></h2>
 
 ### 💼 Where I'm currently working at/as
-- Paperbox (Internship ML Engineer)
+- Paperbox (ML Engineer)
 
 ### 💻 What I'm currently/done working on
 - [Weerstation Hooglede](https://weerstationhooglede.be/)  🚀
