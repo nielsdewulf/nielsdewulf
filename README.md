@@ -29,11 +29,9 @@ Here are some ideas to get you started:
 - Howest MCT Discord Bot  🚀 
 - [Portfolio](https://funergydev.com/)  🚀
 
-### 📖 What I'm currently learning
-- React (Native)  * Progress 13% * 
-- AI & Machine Learning  * Progress 72% *
-- MLOps * Progress 75% *
-- Web Development  * Progress 95% *
+### 📖 What life-long learning I'm doing
+- AI & Machine Learning
+- MLOps
 
 <h2 align="center"></h2>
 
